@@ -1,0 +1,92 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <div>
+        <img src="./efosa.jpg" height="200" alt="Picture of Efosa">
+        <h1><strong>Summary</strong></h1>
+        <p>
+            I am a smart and efficient graduate of Electrical/Electronics Engineering
+            interested in working in a multicultural organization that thrives on current
+            trends and innovation. I am a highly-motivated individual with a desire to take
+            on new challenges. I have strong worth ethics, adaptability and exceptional
+            interpersonal skills, Adept at working effectively unsupervised and quickly
+            mastering new skills. I am also very passionate about Information Technology
+            and Software development with proficiency in the use of html, css, javascript, React.js node.js and database management
+        </p>
+        <hr>
+        <h2><strong>Education</strong></h2>
+        <p>
+            B.ENG, ELECTRICAL AND ELECTRONICS ENGINEERING,02/2015 - 12/2019
+            Second Class Upper Division
+            University of Benin -Benin city, Edo State, Nigeria
+        </p>
+        <hr>
+        <h2><strong>Work Experience</strong></h2>
+            <h3><strong>Electrical Engineer at China Civil Engineering Construction Corporation CCECC- Lagos</strong></h3>
+        <ul>
+            <li>Supervised the erection of poles and installation of accessories
+                such as Electrical isolators, channel irons, pot insulators,
+                lightening arrestors, aluminum conductor cables, stay wires and
+                hazard signs for the 33kV line for the railway project which
+                spans from Apapa Lagos state to Ibadan Oyo state to create a
+                network to supply power to the said project.
+            </li>
+                <li>Provided trobleshooting and analysis for discovered electrical
+                    faults, offering potential solutions.
+                </li>
+                <li>Utilized CAD drawings to provide design documentation.</li>
+                <li>Collaborated with other engineering disciplines to construct
+                    complex projects.
+                </li>
+                <li>Trained and guided new employees according to company
+                    standards and procedures.
+                </li>
+                <li>Prepared daily project status updates to inform staff and
+                    document project changes.
+                </li>
+        </ul>
+        <h2><strong>Skills</strong></h2>
+        <ol>
+            <li>Good command of web
+                development packages such as
+                HTML, CSS, JavaScript and React
+            </li>
+            <li>Computer literate with excellent
+                use of Microsoft office packages(Ms.word, Power-point, Excel) and Proficiency in the use of
+                CAD softwares
+            </li>
+            <li>Good communication skills</li>
+            <li>Fast computer typist with
+                excellent use of computer
+                commands
+            </li>
+            <li>Excellent report writing skills</li>
+            <li>Good interpersonal relationship
+                skills</li>
+                <li>
+                    Excellent analytical, problem
+                    solving and observatory skills
+                    owing to my great involvement
+                    and participation in competitive
+                    chess game events, calculation
+                    and puzzles
+                </li>
+        </ol>
+        <h2><strong>Award And Certification</strong></h2>
+        <ul>
+            <li>JavaScript Algorithms and Data Structures <a href="https://www.freecodecamp.org/certification/E-cube/javascript-algorithms-and-data-structures">view here</a></li>
+            <li>Front End Developmant front-end-development-libraries <a href="https://www.freecodecamp.org/certification/E-cube/front-end-development-libraries">view here</a></li>
+        </ul>
+        <a href="./contact.html">Contact Us</a>
+        <hr>
+        <a href="./hobbies.html">Hobbies</a>
+        <hr>
+    </div>
+    <footer>Copyright &copy; 2023 Efosa Evbuomwan Resume. All Rights Reserved</footer>
+</body>
+</html>
+
